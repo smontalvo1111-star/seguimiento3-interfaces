@@ -10,5 +10,4 @@ De igual manera, desarrollé los cuatro laboratorios de la guía Interfaces func
 
 Los archivos están organizados en carpetas según el tipo de actividad para mantener separados los ejercicios, ejemplos y laboratorios de las dos guías.
 
-Nombre: Keiner Devia
-Grupo: [COMPLETAR]
+Nombre: Sebastián Montalvo
